@@ -12,3 +12,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+
+.col-5 {
+  height: calc(100vh - 56px);
+  overflow: scroll;
+}
+
+.table td {
+  width: 50%;
+}
